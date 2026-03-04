@@ -1,3 +1,13 @@
+# Sovereign-Herald Recreation: Pixel Agents
+
+This repository is a recreation of [pablodelucca/pixel-agents](https://github.com/pablodelucca/pixel-agents) by Sovereign-Herald.
+**Target Repository:** https://github.com/JKrazzzy/pixel-agents-herald
+
+**Current Status:**
+The initial codebase has been cloned and pushed to this repository. The next steps involve verifying the project's runnability and updating the README with specific setup instructions for this recreated version.
+
+---
+
 # Pixel Agents
 
 A VS Code extension that turns your AI coding agents into animated pixel art characters in a virtual office.
